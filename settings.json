@@ -1,6 +1,6 @@
 
 {
-  "openPhases" : ["phaseTeamResponse"],
+  "openPhases" : [],
   "phaseBugReporting": "alpha10",
   "phaseTeamResponse": "alpha10-dev-response",
   "phaseTesterResponse": "alpha10",
